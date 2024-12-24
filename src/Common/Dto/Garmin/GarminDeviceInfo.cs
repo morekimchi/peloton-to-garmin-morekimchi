@@ -51,14 +51,14 @@
 
 		public static readonly GarminDeviceInfo Forerunner945 = new GarminDeviceInfo()
 		{
-			Name = "Forerunner 945", // Max 20 Chars
-			ProductID = 3113, // GarminProduct.Fr945,
-			UnitId = 1,
+			Name = "Approach S70 – 47mm", // Max 20 Chars
+			ProductID = 4234, // GarminProduct.Fr945,
+			UnitId = 3465215202,
 			ManufacturerId = 1, // Garmin
 			Version = new GarminDeviceVersion()
 			{
 				VersionMajor = 19,
-				VersionMinor = 2,
+				VersionMinor = 41,
 				BuildMajor = 0,
 				BuildMinor = 0,
 			}
